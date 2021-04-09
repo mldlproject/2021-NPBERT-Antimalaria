@@ -13,11 +13,11 @@ chemically synthesized compounds, natural products are also demonstrated to have
 antimalarial activity in natural products, besides experimental approaches,  computational methods have been developed 
 with satisfactory outcomes obtained. In our study, we construct various prediction models to identify antimalarial natural products 
 using pre-trained Bidirectional Encoder Representations from Transformers (so-called NPBERT) incorporated with four machine learning 
-algorithms, including $k$-Nearest Neighbours ($k$-NN), Support Vector Machines (SVM), eXtreme Gradient Boosting (XGB), and Random Forest 
+algorithms, including k-Nearest Neighbours (k-NN), Support Vector Machines (SVM), eXtreme Gradient Boosting (XGB), and Random Forest 
 (RF). 
 
 ## Results
-The results show that SVM models are the best-performed classifiers, followed by the XGB, $k$-NN, and RF models. Additionally, 
+The results show that SVM models are the best-performed classifiers, followed by the XGB, k-NN, and RF models. Additionally, 
 comparative analysis between our proposed molecular encoding schemes and existing state-of-the-arts indicates that NPBERT work more 
 effectively compared to the others.  Moreover, the employment of Transformers in constructing molecular encoders is not limited to 
 this study but can be expanded to address numerous biochemical issues.
