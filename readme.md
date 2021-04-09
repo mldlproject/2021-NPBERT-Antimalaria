@@ -3,7 +3,7 @@
 #### T-H Nguyen-Vo, Q. Trinh, L. Nguyen, T. T. T. Do, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html), M. C. H. Chua∗
 
 
-![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/DILI_abs.svg)
+![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/NPBERT_abs.svg)
 
 
 ## Motivation
