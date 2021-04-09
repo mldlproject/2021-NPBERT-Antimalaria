@@ -1,4 +1,4 @@
-# Predicting Antimalarial Activity in Natural Products using Pre-trainded Bidirectional Encoder Representations from Transformers
+# Predicting Antimalarial Activity in Natural Products using Pre-trainded BERT
 
 #### T-H Nguyen-Vo, Q. Trinh, L. Nguyen, T. T. T. Do, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html), M. C. H. Chua∗
 
