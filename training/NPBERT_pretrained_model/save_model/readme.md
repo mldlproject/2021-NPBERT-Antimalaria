@@ -5,7 +5,7 @@
 
 ## Generate features:
 ### Generate feature with SMILES input
-python3 extract_feature.py --input_smile = "[C@@H]1(CC[C@H](C)CC(O)=O)C(=C)[C@H](O)C[C@@H]2[C@@](C)(COC(C=Cc3ccc(O)c(O)c3)=O)CCC[C@@]12C"
+python3 extract_feature.py --input_smile = "$[C@@H]1(CC[C@H](C)CC(O)=O)C(=C)[C@H](O)C[C@@H]2[C@@](C)(COC(C=Cc3ccc(O)c(O)c3)=O)CCC[C@@]12C$"
 
 ### Generate feature with *csv file containing SMILES inputs
 python3 extract_feature.py -- input_file= 'in_PATH/Intput.csv' --output_file = 'OUT_PATH/Output.csv'
