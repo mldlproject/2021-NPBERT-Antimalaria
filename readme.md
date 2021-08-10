@@ -1,6 +1,6 @@
 # Predicting Antimalarial Activity in Natural Products using Pre-trainded BERT
 
-#### T-H Nguyen-Vo, Q. Trinh, L. Nguyen, T. T. T. Do, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)*, [M. C. H. Chua](https://sph.nus.edu.sg/faculty-directory/chua-chin-heng-matthew/)∗
+#### T-H Nguyen-Vo, Q. Trinh, L. Nguyen, T. T. T. Do, M. C. H. Chua*, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)*
 
 
 ![alt text](https://github.com/mldlproject/2021-NPBERT-Antimalaria/blob/main/NPBERT_abs.svg)
