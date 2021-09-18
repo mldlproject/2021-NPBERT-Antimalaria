@@ -26,7 +26,7 @@ this study but can be expanded to address numerous biochemical issues.
 Source code and data are available on [GitHub](https://github.com/mldlproject/2021-NPBERT-Antimalaria)
 
 ## Citation
-Nguyen-Vo, T. H., Trinh, Q. H., Nguyen, L., Do, T. T., Chua, M. C. H., & Nguyen, B. P. (2021). Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder Representations from Transformers. Journal of Chemical Information and Modeling. [DOI: 10.1021/acs.jcim.1c00584](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00584?casa_token=NjdbjiwwyhsAAAAA:RlZBlZCFeA7L8n8AZebCTiEFOLu-lFDpYraPyDl_LDZX7HqD7_pby3OK3TnMHAmuC84b_BwhztQfm3CO)
+Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Trang T. T. Do, Matthew Chin Heng Chua, and Binh P. Nguyen. Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder Representations from Transformers. *Journal of Chemical Information and Modeling* (2021). [DOI: 10.1021/acs.jcim.1c00584](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00584?casa_token=NjdbjiwwyhsAAAAA:RlZBlZCFeA7L8n8AZebCTiEFOLu-lFDpYraPyDl_LDZX7HqD7_pby3OK3TnMHAmuC84b_BwhztQfm3CO)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
