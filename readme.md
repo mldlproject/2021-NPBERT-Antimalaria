@@ -20,7 +20,7 @@ The results show that SVM models are the best-performing classifiers, followed b
 Source code and data are available on [GitHub](https://github.com/mldlproject/2021-NPBERT-Antimalaria)
 
 ## Citation
-Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Trang T. T. Do, Matthew Chin Heng Chua, and Binh P. Nguyen. Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder Representations from Transformers. *Journal of Chemical Information and Modeling* (2021). [DOI: 10.1021/acs.jcim.1c00584](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00584?casa_token=NjdbjiwwyhsAAAAA:RlZBlZCFeA7L8n8AZebCTiEFOLu-lFDpYraPyDl_LDZX7HqD7_pby3OK3TnMHAmuC84b_BwhztQfm3CO)
+Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Trang T. T. Do, Matthew Chin Heng Chua, and Binh P. Nguyen. Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder Representations from Transformers. *Journal of Chemical Information and Modeling* (2021). [DOI: 10.1021/acs.jcim.1c00584](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00584)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
