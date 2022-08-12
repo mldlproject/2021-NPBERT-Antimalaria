@@ -20,7 +20,7 @@ The results showed that SVM models are the best-performing classifiers, followed
 Source code and data are available on [GitHub](https://github.com/mldlproject/2021-NPBERT-Antimalaria)
 
 ## Web-based Application
-- Source 1: [Click here](http://192.168.1.7:8004/) 
+- Source 1: [Click here](http://14.231.244.182:8004/) 
 - Source 2: [Click here](http://192.168.1.7:8004/) 
 
 ## Citation
