@@ -9,18 +9,19 @@
 ## Motivation
 Malaria is a threatening disease that has claimed many lives and has a high prevalence rate annually. Through the past decade, there have been many studies 
 to uncover effective antimalarial compounds to combat this disease. Alongside chemically synthesized chemicals, a number of natural compounds have also been 
-proven to be as effective in their antimalarial properties. Besides experimental approaches to investigate antimalarial activities in natural products, computational 
-methods have been developed with satisfactory outcomes obtained. In this study, we propose a novel molecular encoding scheme based on Bidirectional Encoder 
-Representations from Transformers and used our pretrained encoding model called NPBERT with four machine learning algorithms, including k-Nearest Neighbors (k-NN), Support Vector Machines (SVM), eXtreme Gradient Boosting (XGB), and Random Forest (RF), to develop various prediction models to identify antimalarial natural products. 
+proven to be as effective in their antimalarial properties. Besides experimental approaches to investigate antimalarial activities in natural products, 
+computational methods have been developed with satisfactory outcomes obtained. In this study, we propose a novel molecular encoding scheme based on Bidirectional Encoder Representations from Transformers and used our pretrained encoding model called NPBERT with four machine learning algorithms, including k-Nearest Neighbors 
+(k-NN), Support Vector Machines (SVM), eXtreme Gradient Boosting (XGB), and Random Forest (RF), to develop various prediction models to identify antimalarial natural products. 
 
 ## Results
-The results show that SVM models are the best-performing classifiers, followed by the XGB, k-NN, and RF models. Additionally, comparative analysis between our proposed molecular encoding scheme and existing state-of-the-art methods indicates that NPBERT is more effective compared to the others. Moreover, the deployment of transformers in constructing molecular encoders is not limited to this study but can be utilized for other biomedical applications.
+The results showed that SVM models are the best-performing classifiers, followed by the XGB, k-NN, and RF models. Additionally, comparative analysis between our proposed molecular encoding scheme and existing state-of-the-art methods indicated that NPBERT worked more effective compared to the others. Moreover, the deployment of transformers in constructing molecular encoders is not limited to this study but can be utilized for other biomedical applications. 
 
 ## Availability and Implementation
 Source code and data are available on [GitHub](https://github.com/mldlproject/2021-NPBERT-Antimalaria)
 
 ## Web-based Application
-[Click here](http://192.168.1.7:8004/) 
+- Source 1: [Click here](http://192.168.1.7:8004/) 
+- Source 2: [Click here](http://192.168.1.7:8004/) 
 
 ## Citation
 Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Trang T. T. Do, Matthew Chin Heng Chua, and Binh P. Nguyen. Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder Representations from Transformers. *Journal of Chemical Information and Modeling* (2021). [DOI: 10.1021/acs.jcim.1c00584](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00584)
