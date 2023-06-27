@@ -24,7 +24,8 @@ Source code and data are available on [GitHub](https://github.com/mldlproject/20
 - Source 2: [Click here](http://14.177.208.167:8004/) 
 
 ## Citation
-Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Trang T. T. Do, Matthew Chin Heng Chua, and Binh P. Nguyen. Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder Representations from Transformers. *Journal of Chemical Information and Modeling* (2021). [DOI: 10.1021/acs.jcim.1c00584](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00584)
+Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Trang T. T. Do, Matthew Chin Heng Chua*, Binh P. Nguyen* (2021). Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder Representations from Transformers. 
+*Journal of Chemical Information and Modeling, 62(21), 5050-5058.* [DOI: 10.1021/acs.jcim.1c00584](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00584)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
